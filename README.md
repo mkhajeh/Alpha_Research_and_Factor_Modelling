@@ -11,4 +11,4 @@ The main libraries used in this project are summarized as follow:
 - Matplotlib
 - cvxpy
 
-All the coding for this project are summarized in **Smart_Beta_and_Portfolio_Optimization.ipynb**
+All the coding for this project are summarized in **Alpha_Research_and_Factor_Modelling.ipynb**
